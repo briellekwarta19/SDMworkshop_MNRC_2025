@@ -58,7 +58,7 @@ Here is a brief [description of the case study](CaseStudyDescription.pdf).
 
 ## References
 The material for this workshop has been modified from: 
-- Thompson BK, Colvin, ME, An overview of Structured Decision Making for natural resources, Midwest Fish and Wildlife Conference, January 19th 2025, St. Louis, MO
+- Thompson BK, Colvin, ME, An overview of Structured Decision Making for natural resources, Midwest Fish and Wildlife Conference, January 19th 2025, St. Louis, MO. [website](https://github.com/briellekwarta19/SDMworkshop_MidwestFW_2025)
 - Runge MC, Cochrane JF, Converse SJ, Szymanski JA, Smith DR, Lyons JE, Eaton MJ, Matz A, Barrett P, Nichols JD, Parkin MJ. 2015. An overview of structured decision making, revised edition. U.S. Fish and Wildlife Service, National Conservation Training Center, Shepherdstown, West Virginia, USA. 
 - Runge MC, Converse SJ, Sells SN, Thompson BK, and Isham AF. 2023. Workshop:
 Fundamentals of Structured Decision Making. The Wildlife Society Annual Conference,
