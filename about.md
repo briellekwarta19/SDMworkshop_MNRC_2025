@@ -36,8 +36,6 @@ There will be 7 modules in the workshop following the **PrOACT** process
 6. **T**radeoffs 
 7. Conclusion	
 
-The pdf version of the presentation can be found [here](MNRC_SDM_Workshop.pdf)
-
 ### Case study
 In each module, we will practice the **PrOACT** process of Structured Decision Making by following a real life case study [Runge et al. 2011](https://pubs.usgs.gov/of/2011/1012/pdf/ofr20111012.pdf)
 
@@ -45,8 +43,13 @@ The real life example follows a SDM process to manage nonnative trout below the 
 
 Here is a brief [description of the case study](CaseStudyDescription.pdf). 
 
-## Resources
+
+### Materials
+- [Rapid prototyping worksheet](Rapid_prototype_SDM.pdf) we will work through for the case study example
+- [PDF presentation slides](MNRC_SDM_Workshop.pdf) covered in the workshop
 - [Structured Decision Making Cheat Sheet](SDMworksheet.pdf)
+
+## Resources
 - Structured Decision Making Book (Runge et al. 2020)
 - Review paper: An introduction to decision science for conservation ([Hemming et al. 2022](https://conbio.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/cobi.13868))
 - Smart Choices book (John S. Hammond, Ralph L Keeney, Howard Raiffa)
