@@ -10,7 +10,7 @@ seo:
 
 # Workshop Website for:
 
-## An overview of Structured Decision Making for natural resources, Missouri Natural Resource Conference, February 20th 2025, Osage Beach, MO
+## An overview of Structured Decision Making for natural resources, Missouri Natural Resources Conference, February 20th 2025, Osage Beach, MO
 
 ### Instructors: Brielle Thompson
 
